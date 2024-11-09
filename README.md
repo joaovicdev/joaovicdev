@@ -32,8 +32,8 @@ export const Me = () => {
 ![TypeScript](https://img.shields.io/static/v1?style=for-the-badge&message=TypeScript&color=3178C6&logo=TypeScript&logoColor=FFFFFF&label=)
 ![JavaScript](https://img.shields.io/static/v1?style=for-the-badge&message=JavaScript&color=222222&logo=JavaScript&logoColor=F7DF1E&label=)
 ![Node.js](https://img.shields.io/static/v1?style=for-the-badge&message=Node.js&color=339933&logo=Node.js&logoColor=FFFFFF&label=)
-![PHP](https://img.shields.io/static/v1?style=for-the-badge&message=php&color=339933&logo=php&logoColor=FFFFFF)
-![Laravel](https://img.shields.io/static/v1?style=for-the-badge&message=laravel&color=339933&logo=laravel&logoColor=FFFFFF)
+![PHP](https://img.shields.io/badge/php_8-grey?style=for-the-badge&logo=php)
+![Laravel](https://img.shields.io/badge/laravel-grey?style=for-the-badge&logo=laravel)
 ![Next.js](https://img.shields.io/static/v1?style=for-the-badge&message=Next.js&color=000000&logo=Next.js&logoColor=FFFFFF&label=)
 
 ![NestJS](https://img.shields.io/static/v1?style=for-the-badge&message=NestJS&color=E0234E&logo=NestJS&logoColor=FFFFFF&label=)
