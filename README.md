@@ -44,7 +44,7 @@ export const Me = () => {
 ### Testing 🧪
 ![Jest](https://img.shields.io/static/v1?style=for-the-badge&message=Jest&color=C21325&logo=Jest&logoColor=FFFFFF&label=)
 ![Testing Library](https://img.shields.io/static/v1?style=for-the-badge&message=Testing+Library&color=E33332&logo=Testing+Library&logoColor=FFFFFF&label=)
-![PHPUnit](https://img.shields.io/static/v1?style=for-the-badge&message=phpunit&color=339933&logo=PHPUnit&label=)
+![PHPUnit](https://img.shields.io/static/v1?style=for-the-badge&message=phpunit&color=4F5B93&logo=PHPUnit&label=)
 ### Infra 🛠️
 ![GraphQL](https://img.shields.io/static/v1?style=for-the-badge&message=GraphQL&color=E10098&logo=GraphQL&logoColor=FFFFFF&label=)
 ![Git](https://img.shields.io/static/v1?style=for-the-badge&message=Git&color=F05032&logo=Git&logoColor=FFFFFF&label=)
