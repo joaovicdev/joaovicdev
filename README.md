@@ -5,16 +5,15 @@ import { experience } from 'JoãoVíctor'
 
 export const Me = () => {
   const { 
-    ReactJS, ReactNative, TypeScript,
-    NodeJS, NestJS, VueJS, Angular,
-    ElectronJS, GraphQL,
+    ReactJS, VueJS, TypeScript,
+    NodeJS, NestJS, PHP, Laravel,
   } = experience
 
   const currentWork = {
     role: 'Senior Software Engineer',
     techs: [
-      ReactJS, ReactNative, TypeScript,
-      NodeJS, NestJS, PHP e Laravel
+      ReactJS, VueJS, TypeScript,
+      NodeJS, NestJS, PHP, Laravel,
      ],
   }
   
@@ -33,6 +32,8 @@ export const Me = () => {
 ![TypeScript](https://img.shields.io/static/v1?style=for-the-badge&message=TypeScript&color=3178C6&logo=TypeScript&logoColor=FFFFFF&label=)
 ![JavaScript](https://img.shields.io/static/v1?style=for-the-badge&message=JavaScript&color=222222&logo=JavaScript&logoColor=F7DF1E&label=)
 ![Node.js](https://img.shields.io/static/v1?style=for-the-badge&message=Node.js&color=339933&logo=Node.js&logoColor=FFFFFF&label=)
+![PHP](https://img.shields.io/static/v1?style=for-the-badge&message=php&color=339933&logo=php&logoColor=FFFFFF)
+![Laravel](https://img.shields.io/static/v1?style=for-the-badge&message=laravel&color=339933&logo=laravel&logoColor=FFFFFF)
 ![Next.js](https://img.shields.io/static/v1?style=for-the-badge&message=Next.js&color=000000&logo=Next.js&logoColor=FFFFFF&label=)
 
 ![NestJS](https://img.shields.io/static/v1?style=for-the-badge&message=NestJS&color=E0234E&logo=NestJS&logoColor=FFFFFF&label=)
@@ -43,6 +44,7 @@ export const Me = () => {
 ### Testing 🧪
 ![Jest](https://img.shields.io/static/v1?style=for-the-badge&message=Jest&color=C21325&logo=Jest&logoColor=FFFFFF&label=)
 ![Testing Library](https://img.shields.io/static/v1?style=for-the-badge&message=Testing+Library&color=E33332&logo=Testing+Library&logoColor=FFFFFF&label=)
+![PHPUnit](https://img.shields.io/static/v1?style=for-the-badge&message=phpunit&color=339933&logo=phpunit&logoColor=FFFFFF)
 ### Infra 🛠️
 ![GraphQL](https://img.shields.io/static/v1?style=for-the-badge&message=GraphQL&color=E10098&logo=GraphQL&logoColor=FFFFFF&label=)
 ![Git](https://img.shields.io/static/v1?style=for-the-badge&message=Git&color=F05032&logo=Git&logoColor=FFFFFF&label=)
