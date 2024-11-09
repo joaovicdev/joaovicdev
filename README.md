@@ -63,6 +63,5 @@ export const Me = () => {
 ![Prettier](https://img.shields.io/static/v1?style=for-the-badge&message=Prettier&color=222222&logo=Prettier&logoColor=F7B93E&label=)
 ![Insomnia](https://img.shields.io/static/v1?style=for-the-badge&message=Insomnia&color=4000BF&logo=Insomnia&logoColor=FFFFFF&label=)
 
-## GitHub Statistics 🎯
-
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaovicdev&theme=react&line_height=40"/>
+### You can find more here:
+https://joaovic.com/
