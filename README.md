@@ -49,6 +49,7 @@ export const Me = () => {
 ![GraphQL](https://img.shields.io/static/v1?style=for-the-badge&message=GraphQL&color=E10098&logo=GraphQL&logoColor=FFFFFF&label=)
 ![Git](https://img.shields.io/static/v1?style=for-the-badge&message=Git&color=F05032&logo=Git&logoColor=FFFFFF&label=)
 ![Firebase](https://img.shields.io/static/v1?style=for-the-badge&message=Firebase&color=222222&logo=Firebase&logoColor=FFCA28&label=)
+![Jenkins](https://img.shields.io/static/v1?style=for-the-badge&message=Jenkins&color=222222&logo=Jenkins&label=)
 
 ![Docker](https://img.shields.io/static/v1?style=for-the-badge&message=Docker&color=2496ED&logo=Docker&logoColor=FFFFFF&label=)
 ![MongoDB](https://img.shields.io/static/v1?style=for-the-badge&message=MongoDB&color=47A248&logo=MongoDB&logoColor=FFFFFF&label=)
@@ -64,4 +65,4 @@ export const Me = () => {
 
 ## GitHub Statistics 🎯
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThiagoMartinsSaraiva&theme=react&line_height=40"/>
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaovicdev&theme=react&line_height=40"/>
