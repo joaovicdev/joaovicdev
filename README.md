@@ -13,7 +13,7 @@ export const Me = () => {
     role: 'Pleno Software Engineer',
     techs: [
       ReactJS, VueJS, TypeScript,
-      NodeJS, NestJS, PHP, Laravel,
+      NodeJS, NextJS, PHP, Laravel,
      ],
   }
   
