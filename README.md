@@ -6,7 +6,7 @@ import { experience } from 'JoãoVíctor'
 export const Me = () => {
   const { 
     ReactJS, VueJS, TypeScript,
-    NodeJS, NestJS, PHP, Laravel,
+    NodeJS, NextJS, PHP, Laravel,
   } = experience
 
   const currentWork = {
@@ -18,7 +18,7 @@ export const Me = () => {
   }
   
   const totalExperience = {
-    time: '6 years',
+    time: '5 years',
     techs: [...currentWork.techs, ReactJS, NodeJS, PHP],
   }
 
