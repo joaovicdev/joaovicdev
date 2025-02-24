@@ -51,6 +51,7 @@ export const Me = () => {
 ![Git](https://img.shields.io/static/v1?style=for-the-badge&message=Git&color=F05032&logo=Git&logoColor=FFFFFF&label=)
 ![Firebase](https://img.shields.io/static/v1?style=for-the-badge&message=Firebase&color=222222&logo=Firebase&logoColor=FFCA28&label=)
 ![Jenkins](https://img.shields.io/static/v1?style=for-the-badge&message=Jenkins&color=222222&logo=Jenkins&label=)
+![AWS](https://img.shields.io/static/v1?style=for-the-badge&message=AWS&color=161d26&logo=amazonwebservices&logoColor=fff&label=)
 
 ![Docker](https://img.shields.io/static/v1?style=for-the-badge&message=Docker&color=2496ED&logo=Docker&logoColor=FFFFFF&label=)
 ![MongoDB](https://img.shields.io/static/v1?style=for-the-badge&message=MongoDB&color=47A248&logo=MongoDB&logoColor=FFFFFF&label=)
