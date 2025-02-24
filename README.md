@@ -43,6 +43,7 @@ export const Me = () => {
 ![styled-components](https://img.shields.io/static/v1?style=for-the-badge&message=styled-components&color=DB7093&logo=styled-components&logoColor=FFFFFF&label=)
 ### Testing 🧪
 ![Jest](https://img.shields.io/static/v1?style=for-the-badge&message=Jest&color=C21325&logo=Jest&logoColor=FFFFFF&label=)
+![Vitest](https://img.shields.io/static/v1?style=for-the-badge&message=vitest&color=1b1b1f&logo=vitest&label=)
 ![Testing Library](https://img.shields.io/static/v1?style=for-the-badge&message=Testing+Library&color=E33332&logo=Testing+Library&logoColor=FFFFFF&label=)
 ![PHPUnit](https://img.shields.io/static/v1?style=for-the-badge&message=phpunit&color=4F5B93&logo=PHPUnit&label=)
 ### Infra 🛠️
@@ -62,6 +63,3 @@ export const Me = () => {
 ![ESLint](https://img.shields.io/static/v1?style=for-the-badge&message=ESLint&color=4B32C3&logo=ESLint&logoColor=FFFFFF&label=)
 ![Prettier](https://img.shields.io/static/v1?style=for-the-badge&message=Prettier&color=222222&logo=Prettier&logoColor=F7B93E&label=)
 ![Insomnia](https://img.shields.io/static/v1?style=for-the-badge&message=Insomnia&color=4000BF&logo=Insomnia&logoColor=FFFFFF&label=)
-
-### You can find more here:
-https://joaovic.com/
