@@ -1,4 +1,4 @@
-### Hi there! 🤙
+### Hello World! 🤙
 ## My name is João, and I'm a Frontend Engineer. 💻
 ```js
 import { experience } from 'JoãoVíctor'
@@ -25,6 +25,7 @@ export const Me = () => {
   return { currentWork, totalExperience }
 }
 ```
+Now I'm focused on frontend development to create and develop digital and inovate products.
 ## What I Use 🔥
 
 ### Techs 🌟
