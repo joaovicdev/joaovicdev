@@ -1,5 +1,5 @@
 ### Hi there! 🤙
-## My name is João, and I'm a Software Engineer. 💻
+## My name is João, and I'm a Frontend Engineer. 💻
 ```js
 import { experience } from 'JoãoVíctor'
 
@@ -10,7 +10,7 @@ export const Me = () => {
   } = experience
 
   const currentWork = {
-    role: 'Pleno Software Engineer',
+    role: 'Frontend Engineer',
     techs: [
       ReactJS, VueJS, TypeScript,
       NodeJS, NextJS, PHP, Laravel,
