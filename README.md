@@ -25,7 +25,7 @@ export const Me = () => {
   return { currentWork, totalExperience }
 }
 ```
-Now I'm focused on frontend development to create and develop digital and inovate products.
+Now I'm focused on frontend development to create inovate digital products.
 ## What I Use 🔥
 
 ### Techs 🌟
