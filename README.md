@@ -7,7 +7,7 @@ export const Me = () => {
   const { 
     ReactJS, VueJS, TypeScript,
     NodeJS, NextJS, PHP, Laravel,
-  } = experience
+  } = experience;
 
   const currentWork = {
     role: 'Frontend Engineer',
@@ -15,14 +15,14 @@ export const Me = () => {
       ReactJS, VueJS, TypeScript,
       NodeJS, NextJS, PHP, Laravel,
      ],
-  }
+  };
   
   const totalExperience = {
     time: '5 years',
     techs: [...currentWork.techs, ReactJS, NodeJS, PHP],
-  }
+  };
 
-  return { currentWork, totalExperience }
+  return { currentWork, totalExperience };
 }
 ```
 Now I'm focused on frontend development to create inovate digital products.
