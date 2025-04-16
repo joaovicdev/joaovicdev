@@ -1,4 +1,4 @@
-# Hello, I'm João Victor (joaovicdev) 👋
+# Hello, I'm João Victor (joaovicdev) 😎
 
 I'm a **Full Stack Developer** passionate about building scalable, high-performance applications using modern web technologies. With over 6 years of experience, I’ve worked across startups and enterprise environments, delivering full-cycle solutions from backend architecture to polished user interfaces. My daily work blends performance, clean code, and great user experience—always aiming for quality and maintainability.
 
@@ -10,8 +10,8 @@ Take a look at an overview of my skills and some of the projects that shaped my 
 
 ## 📊 Programming Languages
 
-- **TypeScript / JavaScript:** (Mid-Level)  
-- **PHP:** (Mid-Level)  
+- **TypeScript / JavaScript:** (Sênior)  
+- **PHP:** (Sênior)  
 - **Rust:** (Learning)  
 - **SQL / NoSQL:** (MySQL, MariaDB, MongoDB, Redis, DynamoDB)
 
@@ -19,8 +19,8 @@ Take a look at an overview of my skills and some of the projects that shaped my 
 
 ## 🔙 Backend
 
-- **Node.js (Mid-level):** RESTful APIs, WebSocket services, Fastify/Express, Lambda functions  
-- **PHP (Mid-level):** Laravel (Blade, REST APIs), maintenance of legacy systems and modern apps  
+- **Node.js:** RESTful APIs, WebSocket services, Fastify/Express, Lambda functions  
+- **PHP:** Laravel (Blade, REST APIs), maintenance of legacy systems and modern apps  
 - **Databases:** MySQL, PostgreSQL, MongoDB, Redis, DynamoDB  
 - **DevOps & Infra:** Docker, CI/CD (GitHub Actions, Jenkins), AWS (Lambda, API Gateway, ECS, EC2, RDS, S3), Nginx  
 - **Testing:** Unit and integration tests with Jest, PHPUnit, high coverage standards (>95%)  
@@ -30,9 +30,8 @@ Take a look at an overview of my skills and some of the projects that shaped my 
 
 ## 🔜 Frontend
 
-- **ReactJS & Next.js (Mid-level):** CSR, SSR, SSG, ISR with modern stacks (Redux, Zustand, Context API, React Query, RHF, Zod)  
-- **Vue & Nuxt (Mid-Level):** Pinia, Vuex, component-driven development  
-- **React Native (Mid-Level):** Mobile app development  
+- **ReactJS & Next.js (Sênior):** CSR, SSR, SSG, ISR with modern stacks (Redux, Zustand, Context API, React Query, RHF, Zod)  
+- **Vue & Nuxt (Sênior):** Pinia, Vuex, component-driven development  
 - **Styling Tools:** TailwindCSS, Styled-Components, SASS/SCSS  
 - **Build & Tooling:** Vite, Webpack  
 - **UX/UI:** Figma, Accessibility (a11y), SEO, Web Vitals
