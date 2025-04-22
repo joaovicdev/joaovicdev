@@ -17,7 +17,7 @@ Take a look at an overview of my skills and some of the projects that shaped my 
 
 ---
 
-## 🔙 Backend
+## 🔙 Backend (Sênior)
 
 - **Node.js:** RESTful APIs, WebSocket services, Fastify/Express, Lambda functions  
 - **PHP:** Laravel (Blade, REST APIs), maintenance of legacy systems and modern apps  
@@ -28,13 +28,13 @@ Take a look at an overview of my skills and some of the projects that shaped my 
 
 ---
 
-## 🔜 Frontend
+## 🔜 Frontend (Sênior)
 
-- **ReactJS & Next.js (Sênior):** CSR, SSR, SSG, ISR with modern stacks (Redux, Zustand, Context API, React Query, RHF, Zod)  
-- **Vue & Nuxt (Sênior):** Pinia, Vuex, component-driven development  
+- **ReactJS & Next.js:** CSR, SSR, SSG, ISR with modern stacks (Redux, Zustand, Context API, React Query, RHF, Zod)  
+- **Vue & Nuxt:** Pinia, Vuex, component-driven development  
 - **Styling Tools:** TailwindCSS, Styled-Components, SASS/SCSS  
 - **Build & Tooling:** Vite, Webpack  
-- **UX/UI:** Figma, Accessibility (a11y), SEO, Web Vitals
+- **UX/UI:** Figma, Accessibility (a11y), SEO, Web Vitals 
 
 ---
 
@@ -43,17 +43,18 @@ Take a look at an overview of my skills and some of the projects that shaped my 
 - **Libraries & Tools:** Jest, Vitest, Testing Library, PHPUnit  
 - **Best Practices:** Clean Code, SOLID, KISS, TDD, Code Review  
 - **Coverage:** 90–100% on major projects  
-- **Tooling:** SonarQube, OpenTelemetry, GitHub Actions
+- **Tooling:** SonarQube, GitHub Actions
 
 ---
 
-## ☁️ DevOps & Cloud
+## ☁️ DevOps & Cloud & Observability
 
 - **Containers:** Docker  
 - **CI/CD:** GitHub Actions, Jenkins  
 - **Cloud:** AWS (S3, Lambda, API Gateway, EC2, ECS, RDS, DynamoDB, Elastic Search)  
 - **Messaging & Monitoring:** RabbitMQ, OpenTelemetry  
-- **Linux Expertise:** Ubuntu and Linux-based environments  
+- **Linux Expertise:** Ubuntu and Linux-based environments
+- **Observability:** OpenTelemetry
 
 ---
 
@@ -62,7 +63,8 @@ Take a look at an overview of my skills and some of the projects that shaped my 
 - **Design Systems:** Internal documentation and reusable components with Storybook  
 - **Legacy to Modern:** Migration projects from PHP Legacy to Node.js using Fastify & AWS  
 - **Performance Gains:** Reduced API latency from 3s to 0.4s in production environments  
-- **Team Collaboration:** Works with cross-functional teams using Agile methodologies  
+- **Team Collaboration:** Works with cross-functional teams using Agile methodologies
+- **Internationalization:** Experience in multi-lingual and international projects
 - **English:** Advanced (B2 Level)  
 
 ---
