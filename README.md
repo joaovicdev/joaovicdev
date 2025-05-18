@@ -2,7 +2,7 @@
 
 I'm passionate **Full Stack Developer** about building scalable, high-performance applications using modern web technologies. With over 7 years of experience, I’ve worked across startups and enterprise environments, delivering full-cycle solutions from backend architecture to polished user interfaces. My daily work blends performance, clean code, and great user experience—always aiming for quality and maintainability.
 
-I have strong experience working on E-commerce, SaaS and airlines!
+I have strong experience working on E-commerce, SaaS, airlines and Web3!
 
 Take a look at an overview of my skills and some of the projects that shaped my journey:
 
