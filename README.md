@@ -54,7 +54,6 @@ Take a look at an overview of my skills and some of the projects that shaped my 
 - **Cloud:** AWS (S3, Lambda, API Gateway, EC2, ECS, RDS, DynamoDB, Elastic Search)  
 - **Messaging & Monitoring:** RabbitMQ, OpenTelemetry  
 - **Linux Expertise:** Ubuntu and Linux-based environments
-- **Observability:** OpenTelemetry
 
 ---
 
