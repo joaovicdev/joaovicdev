@@ -33,7 +33,7 @@ Take a look at an overview of my skills and some of the projects that shaped my 
 - **ReactJS & Next.js:** CSR, SSR, SSG, ISR with modern stacks (Redux, Zustand, Context API, React Query, RHF, Zod)  
 - **Vue & Nuxt:** Pinia, Vuex, component-driven development  
 - **Styling Tools:** TailwindCSS, Styled-Components, SASS/SCSS  
-- **Build & Tooling:** Vite, Webpack  
+- **Build & Tooling:** Vite, Webpack, Microfrontends
 - **UX/UI:** Figma, Accessibility (a11y), SEO, Web Vitals 
 
 ---
