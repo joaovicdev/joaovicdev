@@ -70,7 +70,7 @@ Take a look at an overview of my skills and some of the projects that shaped my 
 
 ## 🎓 Education
 
-- **Bachelor's in Software Engineering** – LaSalle University *(ongoing)*  
+- **CyberSecurity** – LaSalle University *(ongoing)*  
 - **GitHub Foundations Certified** – 02/2025  
 
 ---
