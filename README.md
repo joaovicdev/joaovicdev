@@ -1,82 +1,74 @@
-# Hello, I'm João Victor (joaovicdev) 😎
+# Hello, I'm João Victor (joaovicdev) 👋
 
-I'm passionate **Full Stack Developer** about building scalable, high-performance applications using modern web technologies. With over 7 years of experience, I’ve worked across startups and enterprise environments, delivering full-cycle solutions from backend architecture to polished user interfaces. My daily work blends performance, clean code, and great user experience—always aiming for quality and maintainability.
+Tech Lead building scalable systems and leading engineering teams in real production environments.
 
-I have strong experience working on E-commerce, SaaS, airlines and Web3!
+I’ve been shipping software since I was 15, which gave me early exposure to real-world constraints like scale, performance and business impact, not just code.
 
-Take a look at an overview of my skills and some of the projects that shaped my journey:
+Today, I operate as a **hands-on Tech Lead**, working across architecture, execution and team leadership.
 
----
-
-## 📊 Programming Languages
-
-- **TypeScript / JavaScript:** (Sênior)  
-- **PHP:** (Sênior)  
-- **Rust:** (Learning)  
-- **SQL / NoSQL:** (MySQL, MariaDB, MongoDB, Redis, DynamoDB)
+My focus is simple:
+→ build systems that scale
+→ enable teams to move fast with ownership
+→ turn technology into real business impact
 
 ---
 
-## 🔙 Backend (Sênior)
+## 🚀 What I Do
 
-- **Node.js:** RESTful APIs, WebSocket services, Fastify/Express, Lambda functions  
-- **PHP:** Laravel (Blade, REST APIs), maintenance of legacy systems and modern apps  
-- **Databases:** MySQL, PostgreSQL, MongoDB, Redis, DynamoDB  
-- **DevOps & Infra:** Docker, CI/CD (GitHub Actions, Jenkins), AWS (Lambda, API Gateway, ECS, EC2, RDS, S3), Nginx  
-- **Testing:** Unit and integration tests with Jest, PHPUnit, high coverage standards (>95%)  
-- **Architecture:** Clean Code, SOLID, TDD, DDD, Design Patterns, Microservices
-
----
-
-## 🔜 Frontend (Sênior)
-
-- **ReactJS & Next.js:** CSR, SSR, SSG, ISR with modern stacks (Redux, Zustand, Context API, React Query, RHF, Zod)  
-- **Vue & Nuxt:** Pinia, Vuex, component-driven development  
-- **Styling Tools:** TailwindCSS, Styled-Components, SASS/SCSS  
-- **Build & Tooling:** Vite, Webpack, Microfrontends
-- **UX/UI:** Figma, Accessibility (a11y), SEO, Web Vitals 
+• Design and evolve system architecture with a focus on scalability, simplicity and cost-efficiency
+• Lead engineering teams with clear technical direction and predictable delivery
+• Make trade-offs between speed, quality and long-term sustainability
+• Work closely with business stakeholders to turn requirements into pragmatic solutions
+• Actively contribute to code, reviews and system design
 
 ---
 
-## ✅ Testing & Code Quality
+## 🌍 Experience
 
-- **Libraries & Tools:** Jest, Vitest, Testing Library, PHPUnit  
-- **Best Practices:** Clean Code, SOLID, KISS, TDD, Code Review  
-- **Coverage:** 90–100% on major projects  
-- **Tooling:** SonarQube, GitHub Actions
+Worked across domains like **SaaS, e-commerce, airlines, web3 and internal tools**, building and scaling systems end-to-end, from backend architecture to cloud-native deployments.
 
----
-
-## ☁️ DevOps & Cloud & Observability
-
-- **Containers:** Docker  
-- **CI/CD:** GitHub Actions, Jenkins  
-- **Cloud:** AWS (S3, Lambda, API Gateway, EC2, ECS, RDS, DynamoDB, Elastic Search)  
-- **Messaging & Monitoring:** RabbitMQ, OpenTelemetry  
-- **Linux Expertise:** Ubuntu and Linux-based environments
+Currently working on **global internal platforms** used across multiple regions, focused on legal & compliance, governance and business-critical workflows.
 
 ---
 
-## 🧠 Additional Highlights
+## ⚙️ Tech Stack
 
-- **Design Systems:** Internal documentation and reusable components with Storybook  
-- **Legacy to Modern:** Migration projects from PHP Legacy to Node.js using Fastify & AWS  
-- **Performance Gains:** Reduced API latency from 3s to 0.4s in production environments  
-- **Team Collaboration:** Works with cross-functional teams using Agile methodologies
-- **Internationalization:** Experience in multi-lingual and international projects
-- **English:** Advanced (B2 Level)  
+**Core:**
+TypeScript, Node.js, NestJS, React, Next.js, PHP, Laravel, SQL and noSQL
 
----
+**Cloud & Infra:**
+Azure, AWS, Kubernetes, Docker, CI/CD
 
-## 🎓 Education
-
-- **CyberSecurity** – FIAP *(ongoing)*  
-- **GitHub Foundations Certified** – 02/2025  
+**Architecture & Practices:**
+Distributed Systems, System Design, Observability, Clean Architecture
 
 ---
 
-## 🤝 Connect with Me
+## 🧩 How I Work
 
-- [GitHub - joaovicdev](https://github.com/joaovicdev)  
-- [Website - joaovic.com](https://joaovic.com)  
-- [LinkedIn - João Victor](https://www.linkedin.com/in/joao-victor-/)  
+I value environments with:
+
+• High ownership and accountability
+• Async-first communication
+• Fast execution with long-term thinking
+
+---
+
+## 📚 Currently Learning
+
+• GoLang
+• Deeper system design & distributed systems
+
+---
+
+## 🎓 Education & Certifications
+
+• CyberSecurity – FIAP (ongoing)
+• GitHub Foundations Certified
+
+---
+
+## 🤝 Connect
+
+* GitHub: https://github.com/joaovicdev
+* LinkedIn: https://www.linkedin.com/in/joao-victor-/
