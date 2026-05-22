@@ -7,19 +7,19 @@ I’ve been shipping software since I was 15, which gave me early exposure to re
 Today, I operate as a **hands-on Tech Lead**, working across architecture, execution and team leadership.
 
 My focus is simple:
-→ build systems that scale
-→ enable teams to move fast with ownership
-→ turn technology into real business impact
+- build systems that scale
+- enable teams to move fast with ownership
+- turn technology into real business impact
 
 ---
 
 ## 🚀 What I Do
 
-• Design and evolve system architecture with a focus on scalability, simplicity and cost-efficiency
-• Lead engineering teams with clear technical direction and predictable delivery
-• Make trade-offs between speed, quality and long-term sustainability
-• Work closely with business stakeholders to turn requirements into pragmatic solutions
-• Actively contribute to code, reviews and system design
+- Design and evolve system architecture with a focus on scalability, simplicity and cost-efficiency
+- Lead engineering teams with clear technical direction and predictable delivery
+- Make trade-offs between speed, quality and long-term sustainability
+- Work closely with business stakeholders to turn requirements into pragmatic solutions
+- Actively contribute to code, reviews and system design
 
 ---
 
@@ -34,13 +34,13 @@ Currently working on **global internal platforms** used across multiple regions,
 ## ⚙️ Tech Stack
 
 **Core:**
-TypeScript, Node.js, NestJS, React, Next.js, PHP, Laravel, SQL and noSQL
+TypeScript, Node.js, NestJS, React, Next.js, PHP, Laravel, SQL and NoSQL
 
-**Cloud & Infra:**
+**Cloud, Infra & Security:**
 Azure, AWS, Kubernetes, Docker, CI/CD
 
 **Architecture & Practices:**
-Distributed Systems, System Design, Observability, Clean Architecture
+Distributed Systems, System Design, Observability, Monitoring, Security
 
 ---
 
@@ -48,23 +48,24 @@ Distributed Systems, System Design, Observability, Clean Architecture
 
 I value environments with:
 
-• High ownership and accountability
-• Async-first communication
-• Fast execution with long-term thinking
+- High ownership and accountability
+- Async-first communication
+- Fast execution with long-term thinking
 
 ---
 
 ## 📚 Currently Learning
 
-• GoLang
-• Deeper system design & distributed systems
+- GoLang
+- Deeper system design & distributed systems
+- Offensive Security
 
 ---
 
 ## 🎓 Education & Certifications
 
-• CyberSecurity – FIAP (ongoing)
-• GitHub Foundations Certified
+- CyberSecurity – FIAP (ongoing)
+- GitHub Foundations Certified
 
 ---
 
