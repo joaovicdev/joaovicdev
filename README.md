@@ -42,6 +42,9 @@ Azure, AWS, Kubernetes, Docker, CI/CD
 **Architecture & Practices:**
 Distributed Systems, System Design, Observability, Monitoring, Security
 
+**Security:**
+OSINT & HUMINT, OWASP 10, Burp Suite, SLDC, Vulnerability Management, Exploit creator and researcher
+
 ---
 
 ## 🧩 How I Work
