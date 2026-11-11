@@ -30,7 +30,7 @@ I've worked across **SaaS, e-commerce, airlines, Web3, internal tools and direct
  
 | Where | Role | Focus |
 |---|---|---|
-| **AB InBev** | Technical Leader — Legal | Policy Approvals platform used across multiple global regions. Team leadership, architecture, secure SDLC. |
+| **AB InBev** | Lead Software Engineer | Policy Approvals platform used across multiple global regions. Team leadership, architecture, secure SDLC. |
 | **AB InBev** | Senior Software Engineer | Core features and backend services on NestJS + Azure + Kubernetes; architectural foundations later used to scale the product globally. |
 | **Petrus Software** | Senior Software Engineer, Web3 | Payment APIs and backend/cloud architecture for a crypto trading platform (Stripe, NestJS, PostgreSQL, AWS). |
 | **Smiles Airlines** | Senior Software Engineer | Micro frontends, legacy React refactor (12 → 18), >95% test coverage, internal standards and documentation. |
