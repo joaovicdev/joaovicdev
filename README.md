@@ -1,7 +1,7 @@
 # Hello, I'm João Victor (joaovicdev) 👋
  
 **Lead Software Engineer** — Backend & Software Architecture
-`NodeJS` · `TypeScript` · `NestJS` · `Kubernetes` · `AWS/Azure` · `AI-First Engineering`
+`NodeJS` · `Go` · `PHP` · `Kubernetes` · `AWS/Azure` · `AI-First Engineering`
  
 8+ years designing, shipping and operating production systems for companies around the world, from early-stage startups to enterprise scale.
  
