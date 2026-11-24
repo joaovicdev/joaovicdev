@@ -50,7 +50,7 @@ I research vulnerabilities in real-world applications and open-source projects, 
 - [CVE-2026-17633](https://www.ibm.com/support/pages/node/7282646) - IBM Langflow OSS.
 - [CVE-2026-17629](https://www.ibm.com/support/pages/security-bulletin-langflow-affected-weaknesses-secret-handling-and-sensitive-configuration-access) - IBM Lanflow OSS.
 - [CVE-2026-17624](https://www.ibm.com/support/pages/node/7282646) - IBM Langflow OSS.
-- CVE-2026-63620 - Apache HTTP Server.
+- CVE-2026-63620 (numbering just reserved by apache team, not published yet) - Apache HTTP Server.
 - [CVE-2026-17633](https://www.ibm.com/support/pages/node/7282646) - IBM Langflow OSS.
 
 **Areas of focus:** Vulnerability Research · Penetration Testing · Red Team · Exploit Development · Proofs of Concept · Web & API Security · OWASP Top 10 · Cloud Security · Secure Code Review · Threat Modeling (STRIDE) · Vulnerability Management · SAST/DAST · OSINT · Burp Suite.
