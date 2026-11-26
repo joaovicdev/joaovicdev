@@ -5,10 +5,6 @@
 </p>
 
 <p align="center">
-  <img src="./cat2.png" alt="João Victor's cat mascot" width="180" />
-</p>
-
-<p align="center">
   <a href="https://joaovicdev.com">Website</a> ·
   <a href="https://www.linkedin.com/in/joao-victor-/">LinkedIn</a> ·
   <a href="https://github.com/joaovicdev">GitHub</a> ·
